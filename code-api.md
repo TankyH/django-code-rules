@@ -24,7 +24,8 @@
 |---|:---|:---:|---:|---:|
 |name|str|Yes|汽车制造商名称||
 |address|str|Yes|汽车制造商地址||
-|xxxx|str|No|xxxx|--已删除--|
+|xxdd|str|No|xxxx|`--新添加--`|
+|xxxx|str|No|xxxx|`--已删除--`|
 
 #### 1.4 终端请求示例
 
