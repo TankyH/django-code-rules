@@ -61,8 +61,8 @@
 ```json
 业务处理错误时返回（注意：这里的 http 级别的 状态码是 2xx）
 {
-    error_code: 4001,
-    error_message: 'xxxx'
+    "error_code": 4001,
+    "error_message": "xxxx"
 }
 ```
 
@@ -76,7 +76,7 @@
 
 ```json
 {
-    message: 'xxxx'
+    "message": "xxxx"
 }
 ```
 
