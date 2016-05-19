@@ -50,7 +50,15 @@
     "name": "aodi",
     "address": "china"
 }
+```
 
+
+|参数|类型|说明|
+|---|:---|---:|
+|error_code|str|业务级别处理错误状态码|
+|error_message|str|业务级别处理错误提示信息|
+
+```json
 业务处理错误时返回（注意：这里的 http 级别的 状态码是 2xx）
 {
     error_code: 4001,
