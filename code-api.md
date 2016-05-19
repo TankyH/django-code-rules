@@ -47,10 +47,17 @@
 |address|str|汽车制造商地址|
 
 ```json
+正常时返回
 {
     "id": 9,
     "name": "aodi",
     "address": "china"
+}
+
+错误时返回
+{
+    error_code: 4001,
+    error_message: 'xxxx'
 }
 ```
 
